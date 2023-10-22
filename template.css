@@ -1,0 +1,79 @@
+/* .custom-shape-divider-top-1671914999 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1671914999 svg {
+    position: relative;
+    display: block;
+    width: calc(177% + 1.3px);
+    height: 149px;
+}
+
+.custom-shape-divider-top-1671914999 .shape-fill {
+    fill: rgb(34, 34, 34);
+} */
+191A19
+1E5128
+D8E9A8
+4E9F3D
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background: #191A19;
+    color: white;
+}
+span{
+    color: #4E9F3D;
+}
+h2{
+    font-size: 3.5em;
+    cursor: pointer;
+    letter-spacing: 0.10rem;
+}
+nav{
+    padding-left: 8%;
+    padding-top: 3rem;
+    padding-right: 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    margin-right: 20%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0.8rem 3.5rem;
+    font-size: 1.50em;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform:capitalize ;
+    transition: 0.5s;
+}
+nav ul li a:hover{
+    color: #4E9F3D;
+}
+.div1{
+    color: #D8E9A8;
+    margin-top: 15%;
+    margin-left:30px ;
+    cursor: pointer;
+    letter-spacing: 0.15rem;
+}
+.div1 h1{
+    font-size: 5em;
+}
+.div1 h1 span{
+    color: #4E9F3D;
+}
